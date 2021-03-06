@@ -1,5 +1,3 @@
-layout: page
-title: "Projects"
-permalink: /
+#### [Home](https://hypromerto.github.io) | [Projects](/Projects.md)
 
 # Projects
