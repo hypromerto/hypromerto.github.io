@@ -11,14 +11,6 @@ ___________
 
 ___________
 
-
-### [Database Systems Project - Social Betting Platform](https://github.com/busrabgz/AlphaBet)
-
-* A social betting platform implemented as a four person group for CS353 Database Systems course.
-* Head of the backend, used Python with Flask and MySQL to communicate with the database. Also helped with the frontend using ReactJS.
-
-___________
-
 ### [Seven Wonders Game](https://github.com/Dogacel/CS319-2C-SW)
 
 * A digital implementation of the Seven Wonders boardgame for CS319 Object Oriented Software Engineering course.
@@ -30,6 +22,13 @@ ___________
 
 * A web application done in Python using Flask framework that searches for popular keywords in Twitter.
 * Makes use of Redis for caching, MySQL for database and ReactJS for front-end.
+
+___________
+
+### [Database Systems Project - Social Betting Platform](https://github.com/busrabgz/AlphaBet)
+
+* A social betting platform implemented as a four person group for CS353 Database Systems course.
+* Head of the backend, used Python with Flask and MySQL to communicate with the database. Also helped with the frontend using ReactJS.
 
 ___________
 
