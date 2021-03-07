@@ -40,14 +40,14 @@ ___________
 
 ___________
 
-### Optical Helper
+### TUBITAK Project Contest Submission - Optical Helper
 
 * Submission to TÜBİTAK (The Scientific and Technological Research Council of Turkey) Project Contest.
 * An Android application that uses OCR (Optical Character Recognition) technology to scan and convert written material into text in digital format (which can later be edited and printed by means of the application).
 
 ___________
 
-### [B.I.C.O.M.E Game](https://github.com/hypromerto/BICOME)
+### [CS102 Project - B.I.C.O.M.E Game](https://github.com/hypromerto/BICOME)
 
 * A desktop game, written in Java, that provides a simulation environment to visualize the effects of natural selection on an organism’s survival.
 * Designed and implemented the logic of interaction between organisms, including how they reproduce and populate a grid with predetermined size.
