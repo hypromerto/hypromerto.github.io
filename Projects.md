@@ -3,6 +3,7 @@
 ___________
 
 ## Projects
+You can visit the source codes or the implementations of the projects by clicking on their titles!
 
 ### [Senior Design Project - Here!](https://www.hereapp.live)
 
