@@ -4,7 +4,7 @@ ___________
 
 ## Projects
 
-### [Senior Design Project - Here!](hereapp.live)
+### [Senior Design Project - Here!](https://www.hereapp.live)
 
 * Designed and implemented an online video conferencing software specialized for education fitted with an AI teaching assistant that monitors the attention of the students during the lectures.
 * Developed the AI teaching assistant feature using machine learning models and image recognition algorithms.
