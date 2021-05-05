@@ -11,6 +11,7 @@ ___________
 * Specifically designed for scale, using Celery as a task queue and Redis as the message broker.
 * Deployed the backend to Google Kubernetes Engine as separate microservices, each in their own Dockerized containers and scaled them independently. 
 * Load-tested the system extensively using Locust.
+  
 ___________
 
 ### [Cloud Computing Course - URL Shortener lidl.one](https://github.com/hypromerto/url-shortener)
