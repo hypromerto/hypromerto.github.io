@@ -29,10 +29,18 @@ ___________
 
 ___________
 
-### [Twitter Popular Keyword Search Engine](https://github.com/hypromerto/twitter-popular-search-engine)
+### [Hobby Project - Twitter Popular Keyword Search Engine](https://github.com/hypromerto/twitter-popular-search-engine)
 
 * A web application done in Python using Flask framework that searches for popular keywords in Twitter.
 * Makes use of Redis for caching, MySQL for database and ReactJS for front-end.
+
+___________
+
+### [Hobby Project - Aether Discord Music Bot](https://github.com/hypromerto/aether-discord-music-bot)
+
+* A Discord music bot called Aether that is running on Heroku.
+* Written in JavaScript.
+* Created to bypass the paywall imposed by common music bots when trying to change the volume of a song.
 
 ___________
 
@@ -43,14 +51,14 @@ ___________
 
 ___________
 
-### Optical Helper
+### TUBITAK Project Contest Submission - Optical Helper
 
 * Submission to TÜBİTAK (The Scientific and Technological Research Council of Turkey) Project Contest.
 * An Android application that uses OCR (Optical Character Recognition) technology to scan and convert written material into text in digital format (which can later be edited and printed by means of the application).
 
 ___________
 
-### [B.I.C.O.M.E Game](https://github.com/hypromerto/BICOME.)
+### [CS102 Project - B.I.C.O.M.E Game](https://github.com/hypromerto/BICOME)
 
 * A desktop game, written in Java, that provides a simulation environment to visualize the effects of natural selection on an organism’s survival.
 * Designed and implemented the logic of interaction between organisms, including how they reproduce and populate a grid with predetermined size.
