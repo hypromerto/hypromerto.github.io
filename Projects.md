@@ -4,10 +4,21 @@ ___________
 
 ## Projects
 
-### Senior Design Project - Here!
+### [Senior Design Project - Here!](hereapp.live)
 
-* Designing and implementing an online education software fitted with an AI teaching assistant that monitors attendance to lectures. 
-* Developing the AI teaching assistant feature using machine learning models and image recognition algorithms.
+* Designed and implemented an online video conferencing software specialized for education fitted with an AI teaching assistant that monitors the attention of the students during the lectures.
+* Developed the AI teaching assistant feature using machine learning models and image recognition algorithms.
+* Specifically designed for scale, using Celery as a task queue and Redis as the message broker.
+* Deployed the backend to Google Kubernetes Engine as separate microservices, each in their own Dockerized containers and scaled them independently. 
+* Load-tested the system extensively using Locust.
+___________
+
+### [Cloud Computing Course - URL Shortener lidl.one](https://github.com/hypromerto/url-shortener)
+
+* A url shortener specifically designed for scale, by keeping in mind the large amounts of URL redirections that need to be processed. 
+* Implemented as part of the CS443 Cloud Computing and Mobile Applications course.
+* Used Java with Spring Boot at the backend, deployed the backend to Google Kubernetes Engine as separate microservices each in their own Dockerized containers and scaled them independently.
+* Load-tested the system extensively using Locust.
 
 ___________
 
