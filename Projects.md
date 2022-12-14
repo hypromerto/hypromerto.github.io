@@ -24,9 +24,18 @@ ___________
 
 ___________
 
+### [Hobby Project - Valorant Guides Discord Bot](https://github.com/hypromerto/valorant-guides-discord-bot)
+
+* A Discord bot written in Python, that is deployed on AWS using GitHub actions for CI/CD pipeline.  
+* Showcases different "lineups" in Valorant according to the built-in querying system.
+* Used technologies: AWS EC2, AWS S3, AWS Cloudwatch, AWS CodeDeploy, GitHub Actions
+
+___________
+
 ### [Seven Wonders Game](https://github.com/Dogacel/CS319-2C-SW)
 
 * A digital implementation of the Seven Wonders boardgame for CS319 Object Oriented Software Engineering course.
+* Both the UI and the backend was written using Java.
 * Requirements Analysis was done prior to implementation and Object Oriented Design principles were followed throughout the project.
 
 ___________
